@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckboxButton", "CheckboxB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressChecker", "AddressChecker\AddressChecker.csproj", "{8FF7840F-0113-4484-9AE5-C971EBF83D54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseOver", "MouseOver\MouseOver.csproj", "{D0348CC9-9D86-4589-90C3-0D9D0D51437D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8FF7840F-0113-4484-9AE5-C971EBF83D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FF7840F-0113-4484-9AE5-C971EBF83D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FF7840F-0113-4484-9AE5-C971EBF83D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0348CC9-9D86-4589-90C3-0D9D0D51437D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0348CC9-9D86-4589-90C3-0D9D0D51437D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0348CC9-9D86-4589-90C3-0D9D0D51437D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0348CC9-9D86-4589-90C3-0D9D0D51437D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
